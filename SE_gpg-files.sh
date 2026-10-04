@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -u
 
-KEY='57CE373F19D4EA0C8400FD45A542C8BDEFB82BA4'
+KEY='YOUR_KEY_ID'
 mode=${1-}
 
 case "$mode" in
